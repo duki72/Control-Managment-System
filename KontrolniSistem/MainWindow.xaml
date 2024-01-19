@@ -1,0 +1,210 @@
+﻿<Window x:Class="KontrolniSistem.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:KontrolniSistem"
+        xmlns:views="clr-namespace:KontrolniSistem.Views"
+        xmlns:viewModel="clr-namespace:KontrolniSistem.ViewModel"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:materialDesignConverters="clr-namespace:MaterialDesignThemes.Wpf.Converters;assembly=MaterialDesignThemes.Wpf"
+        
+        mc:Ignorable="d"
+        Title="MainWindow" Height="750" Width="1100"
+         WindowStartupLocation="CenterScreen"
+        WindowStyle="None"
+        ResizeMode="NoResize"
+        Background="White"
+        AllowsTransparency="True"
+        Name="MainWindowRef">
+
+    <Window.DataContext>
+        <viewModel:MainWindowViewModel/>
+    </Window.DataContext>
+
+
+
+
+   <Window.Resources>
+         <DataTemplate DataType="{x:Type viewModel:PocetnaViewModel}">
+            <views:PocetnaView/>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModel:MrezniEntitetiViewModel}">
+            <views:MrezniEntitetiView/>
+         </DataTemplate>
+       
+         <DataTemplate DataType="{x:Type viewModel:RasporedMrezeViewModel}">
+             <views:RasporedMrezeView/>
+         </DataTemplate>
+        <DataTemplate DataType="{x:Type viewModel:StatistikaMrezeViewModel}">
+            <views:StatistikaMrezeView/>
+         </DataTemplate>
+    </Window.Resources>
+
+    <Grid Background="#FFC2CACA">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="100"/>
+            <ColumnDefinition Width="950"/>
+            <ColumnDefinition Width="50"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="650"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+
+
+
+        <!--// Meni za navigaciju //-->
+        <Grid Grid.Row="1" Grid.Column="0" Margin="0 0 0 260">
+            <Border Margin="20, 10, 20, 5" CornerRadius="12">
+                <Border.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Black"/>
+                        <GradientStop Color="#FFAF9A9A" Offset="1"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+                        <RowDefinition Height="*" />
+
+                    </Grid.RowDefinitions>
+
+                    <!--// Dugme pocetna //-->
+                    <Button Grid.Row="0" 
+                                x:Name="pocetna" 
+                                Width="40" 
+                                Command="{Binding NavCommand}" 
+                                Template="{StaticResource NoMouseOverButtonTemplate}"
+                                 Style="{StaticResource DockBtnStyle}"
+                                BorderThickness="0" 
+                                Background="White"
+                                HorizontalAlignment="Left"
+                                Margin="10,0,0,0"
+                                CommandParameter="pocetna">
+                        <Button.Resources>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="CornerRadius" Value="10"/>
+                            </Style>
+                        </Button.Resources>
+                        <Image Source="Assets/home1.png" Stretch="Uniform" Width="40" />
+                          
+                       
+                    </Button>
+
+                    <!--// Dugme mrezni entiteti //-->
+                    <Button
+                            Grid.Row="1"
+                            x:Name="mrezni_entiteti"
+                            Width="50"
+                            Command="{Binding NavCommand}"
+                            Template="{StaticResource NoMouseOverButtonTemplate}"
+                            Style="{StaticResource DockBtnStyle}"
+                            BorderThickness="0"
+                            Background="White"
+                            CommandParameter="mrezni_entiteti">
+                        <Button.Resources>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="CornerRadius" Value="10"/>
+                            </Style>
+                        </Button.Resources>
+                        <Image
+                                    Source="Assets/network1.png"
+                                    Stretch="Uniform"
+                                    Width="40" />
+                           
+                       
+                    </Button>
+
+                    <!-- // Dugme statistika mreže //-->
+                    <Button
+                            Grid.Row="2"
+                            x:Name="statistika_mreze"
+                            Width="40"
+                            Command="{Binding NavCommand}"
+                            Template="{StaticResource NoMouseOverButtonTemplate}"
+                            Style="{StaticResource DockBtnStyle}"
+                            BorderThickness="0"
+                            Background="White"
+                            HorizontalAlignment="Left"
+                            Margin="10,0,0,0"
+                            CommandParameter="statistika_mreze">
+                        <Button.Resources>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="CornerRadius" Value="10"/>
+                            </Style>
+                        </Button.Resources>
+
+                        <Image
+                                    Source="Assets/barchart.png"
+                                    Stretch="Uniform"
+                                    Width="40" />
+                            
+                       
+                    </Button>
+                    <!-- // Dugme raspored mreže //-->
+                    <Button
+                            Grid.Row="3"
+                            x:Name="raspored_mreze"
+                            Width="40"
+                            Command="{Binding NavCommand}"
+                            Template="{StaticResource NoMouseOverButtonTemplate}"
+                            Style="{StaticResource DockBtnStyle}"
+                            BorderThickness="0"
+                            Background="White"
+                            HorizontalAlignment="Left"
+                            Margin="10,0,0,0" 
+                            CommandParameter="raspored_mreze">
+                        <Button.Resources>
+                            <Style TargetType="{x:Type Border}">
+                                <Setter Property="CornerRadius" Value="10"/>
+                            </Style>
+                        </Button.Resources>
+                        <Image
+                                    Source="Assets/menu.png"
+                                    Stretch="Uniform"
+                                    Width="40" />
+                            
+                        
+                    </Button>
+                </Grid>
+            </Border>
+        </Grid>
+
+        <Border Grid.Row="1" Grid.Column="1"  Margin="20, 10, 0, 15"  CornerRadius="12">
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FFAF9A9A" Offset="1"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <ContentControl Margin="10" Background="Wheat" Content="{Binding CurrentViewModel}" />
+        </Border>
+
+        <!--// Dugme izlaz //-->
+        <Button
+                Grid.Column="4"
+                x:Name="izlaz"
+                Width="40"
+                Template="{StaticResource NoMouseOverButtonTemplate}"
+                
+                BorderThickness="0"
+                Background="Transparent"
+                HorizontalAlignment="Right"
+               Margin="0 0 5 0"
+                Command="{Binding Izlaz}" 
+                CommandParameter="{Binding ElementName=MainWindowRef}">
+
+            <Image
+                        Source="Assets/blackclose.png"
+                        Stretch="Uniform"
+                        Width="40" />
+
+        </Button>
+
+    </Grid>
+</Window>

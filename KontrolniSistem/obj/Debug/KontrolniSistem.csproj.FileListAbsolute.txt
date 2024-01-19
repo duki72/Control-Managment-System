@@ -1,0 +1,144 @@
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\KontrolniSistem.exe.config
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\KontrolniSistem.exe
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\KontrolniSistem.pdb
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\CommonServiceLocator.dll
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\MaterialDesignColors.dll
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\MVVMLight.Messaging.dll
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\MaterialDesignColors.pdb
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\bin\Debug\MVVMLight.Messaging.xml
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.csproj.AssemblyReference.cache
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.csproj.SuggestedBindingRedirects.cache
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\MainWindow.g.cs
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\Views\MrezniEntitetiView.g.cs
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\Views\PocetnaView.g.cs
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\Views\RasporedMrezeView.g.cs
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\Views\StatistikaMrezeView.g.cs
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\App.g.cs
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem_MarkupCompile.cache
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem_MarkupCompile.lref
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\App.baml
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\MainWindow.baml
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\Views\MrezniEntitetiView.baml
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\Views\PocetnaView.baml
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\Views\RasporedMrezeView.baml
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\Views\StatistikaMrezeView.baml
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.g.resources
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.Properties.Resources.resources
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.csproj.GenerateResource.cache
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.csproj.CoreCompileInputs.cache
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.csproj.CopyComplete
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.exe
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\KontrolniSistem.exe.config
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\KontrolniSistem.exe
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\KontrolniSistem.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\CommonServiceLocator.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\MaterialDesignColors.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\MVVMLight.Messaging.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\bin\Debug\MVVMLight.Messaging.xml
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.csproj.AssemblyReference.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\MainWindow.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\Views\MrezniEntitetiView.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\Views\PocetnaView.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\Views\RasporedMrezeView.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\Views\StatistikaMrezeView.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\App.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem_MarkupCompile.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem_MarkupCompile.lref
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\App.baml
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\MainWindow.baml
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\Views\MrezniEntitetiView.baml
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\Views\PocetnaView.baml
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\Views\RasporedMrezeView.baml
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\Views\StatistikaMrezeView.baml
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.g.resources
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.Properties.Resources.resources
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.csproj.GenerateResource.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.csproj.CoreCompileInputs.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.csproj.CopyComplete
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.exe
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\KontrolniSistem.exe.config
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\KontrolniSistem.exe
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\KontrolniSistem.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\CommonServiceLocator.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\MaterialDesignColors.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\MVVMLight.Messaging.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.xml
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\bin\Debug\MVVMLight.Messaging.xml
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.csproj.AssemblyReference.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\MainWindow.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\Views\MrezniEntitetiView.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\Views\PocetnaView.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\Views\RasporedMrezeView.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\Views\StatistikaMrezeView.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\App.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem_MarkupCompile.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem_MarkupCompile.lref
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\App.baml
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\MainWindow.baml
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\Views\MrezniEntitetiView.baml
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\Views\PocetnaView.baml
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\Views\RasporedMrezeView.baml
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\Views\StatistikaMrezeView.baml
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.g.resources
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.Properties.Resources.resources
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.csproj.GenerateResource.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.csproj.CoreCompileInputs.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.csproj.CopyComplete
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.exe
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\KontrolniSistem\obj\Debug\KontrolniSistem.pdb

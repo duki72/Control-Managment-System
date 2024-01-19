@@ -1,0 +1,64 @@
+C:\Users\Nina Gaming\Downloads\hci_danijel\danijel\Network-Manager-main\build\MeteringSimulator.exe.config
+C:\Users\Nina Gaming\Downloads\hci_danijel\danijel\Network-Manager-main\build\MeteringSimulator.exe
+C:\Users\Nina Gaming\Downloads\hci_danijel\danijel\Network-Manager-main\build\MeteringSimulator.pdb
+C:\Users\Nina Gaming\Downloads\hci_danijel\danijel\Network-Manager-main\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Nina Gaming\Downloads\hci_danijel\danijel\Network-Manager-main\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nina Gaming\Downloads\hci_danijel\danijel\Network-Manager-main\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Nina Gaming\Downloads\hci_danijel\danijel\Network-Manager-main\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Nina Gaming\Downloads\hci_danijel\danijel\Network-Manager-main\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Nina Gaming\Downloads\hci_danijel\danijel\Network-Manager-main\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Nina Gaming\Downloads\hci_danijel\danijel\Network-Manager-main\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Nina Gaming\Downloads\hci_danijel\danijel\Network-Manager-main\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Nina Gaming\Downloads\hci_danijel\danijel\Network-Manager-main\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Nina Gaming\Downloads\hci_danijel\danijel\Network-Manager-main\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Nina Gaming\Downloads\hci_danijel\danijel\Network-Manager-main\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Nina Gaming\Downloads\hci_danijel\danijel\Network-Manager-main\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Nina Gaming\Downloads\hci_danijel\danijel\Network-Manager-main\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\build\MeteringSimulator.exe.config
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\build\MeteringSimulator.exe
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\build\MeteringSimulator.pdb
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\luzani\Downloads\HCI\HCI\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\build\MeteringSimulator.exe.config
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\build\MeteringSimulator.exe
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\build\MeteringSimulator.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Nina Gaming\Downloads\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\build\MeteringSimulator.exe.config
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\build\MeteringSimulator.exe
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\build\MeteringSimulator.pdb
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.AssemblyReference.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\MeteringSimulator\obj\Debug\MainWindow.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\MeteringSimulator\obj\Debug\App.g.cs
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator_MarkupCompile.lref
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\MeteringSimulator\obj\Debug\MainWindow.baml
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.g.resources
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.Properties.Resources.resources
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.GenerateResource.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.exe
+C:\Users\Nina Gaming\Downloads\KontrolniSisemdobar\KontrolniSisem\MeteringSimulator\obj\Debug\MeteringSimulator.pdb

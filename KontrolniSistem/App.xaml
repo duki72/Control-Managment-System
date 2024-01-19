@@ -1,0 +1,90 @@
+﻿<Application x:Class="KontrolniSistem.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:KontrolniSistem"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <!-- Globalni font -->
+        <Style TargetType="{x:Type Window}">
+            <Setter Property="FontFamily" Value="Consolas" />
+        </Style>
+
+        <SolidColorBrush x:Key="UIPrimaryColor" Color="#2F3148" />
+        <SolidColorBrush x:Key="UISecondaryColor" Color="#70739e" />
+        <SolidColorBrush x:Key="UITertiaryColor" Color="#587099" />
+        <SolidColorBrush x:Key="UIAccentColor" Color="#3F5576" />
+        <SolidColorBrush x:Key="UIQuatriraryColor" Color="#D3EAE7" />
+        <SolidColorBrush x:Key="UIWhiteColor" Color="White" />
+        <SolidColorBrush x:Key="UIBlueColor" Color="#d3e29d" />
+        <SolidColorBrush x:Key="UIRedColor" Color="#f9d692" />
+
+        <Color x:Key="GradientColorOne" R="176" G="141" B="0" A="100" />
+        <Color x:Key="GradientColorTwo" R="92" G="68" B="0" A="100" />
+
+       
+
+        <ControlTemplate x:Key="NoMouseOverButtonTemplate" TargetType="Button">
+            <Border Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}">
+                <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" />
+            </Border>
+
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsEnabled" Value="False">
+                    <Setter Property="Background" Value="{x:Static SystemColors.ControlLightBrush}" />
+                    <Setter Property="Foreground" Value="{x:Static SystemColors.GrayTextBrush}" />
+                </Trigger>
+            </ControlTemplate.Triggers>
+        </ControlTemplate>
+
+
+        <Style x:Key="DockBtnStyle"
+           TargetType="Button">
+            <Setter Property="Height"
+                Value="45" />
+            <Setter Property="Width"
+                Value="45" />
+            <!--<Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="border"
+                            BorderThickness="0"
+                            Background="{TemplateBinding Background}" />
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>-->
+
+            <!--// Button Animation //-->
+
+            <Style.Triggers>
+                <EventTrigger RoutedEvent="MouseEnter">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="(Button.Width)"
+                                         To="50"
+                                         Duration="0:0:0.3" />
+
+                            <DoubleAnimation Storyboard.TargetProperty="(Button.Height)"
+                                         To="50"
+                                         Duration="0:0:0.3" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+
+                <EventTrigger RoutedEvent="MouseLeave">
+                    <BeginStoryboard>
+                        <Storyboard>
+                            <DoubleAnimation Storyboard.TargetProperty="(Button.Width)"
+                                         To="45"
+                                         Duration="0:0:0.3" />
+
+                            <DoubleAnimation Storyboard.TargetProperty="(Button.Height)"
+                                         To="45"
+                                         Duration="0:0:0.3" />
+                        </Storyboard>
+                    </BeginStoryboard>
+                </EventTrigger>
+            </Style.Triggers>
+        </Style>
+    </Application.Resources>
+</Application>
